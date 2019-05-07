@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -x
+set -e
 
 echo "Let's test that we have deployed a lambda"
 
